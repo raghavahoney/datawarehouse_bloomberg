@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `bloomberg_db` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `bloomberg_db`;
+CREATE DATABASE  IF NOT EXISTS `datawarehouse_db` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `datawarehouse_db`;
 -- MySQL dump 10.13  Distrib 5.7.17, for Win64 (x86_64)
 --
--- Host: localhost    Database: bloomberg_db
+-- Host: localhost    Database: datawarehouse_db
 -- ------------------------------------------------------
 -- Server version	5.7.20-log
 
